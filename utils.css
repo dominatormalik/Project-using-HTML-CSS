@@ -1,0 +1,21 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my1{
+    margin: 20px 0;
+}
+
+.my2{
+    margin: 40px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.imagewidth{
+    width: 17vw;
+}
